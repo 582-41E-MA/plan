@@ -8,7 +8,7 @@ l'organisation du travail d'équipe.
 
 Situé à la quatrième étape, ce cours n'a pas de préalable. Il est
 toutefois un préalable au cours *Stage en milieu de travail*
-(582-51W). Il est également corequis au cours *Projet Web 2*
+(582-51W). Il est également co-requis au cours *Projet Web 2*
 (582-41W).
 
 ## Compétences à développer
@@ -36,12 +36,12 @@ les priorités et les étapes de réalisation, et à faire des choix
 technologiques. L'étudiant·e est aussi initié·e aux outils disponibles
 pour la planification de projet Web.
 
-|     | Contenu                              | Remises        |
-| --: | ------------------------------------ | -------------- |
-|   1 | Introduction                         |                |
-|   2 | Organisation du travail informatique |                |
-|   3 | Méthode de la mêlée                  | Devoir 1       |
-|   4 | Atelier                              |                |
+|     | Contenu                              | Remises  |
+| --: | ------------------------------------ | -------- |
+|   1 | Introduction                         |          |
+|   2 | Organisation du travail informatique |          |
+|   3 | Méthode de la mêlée                  | Devoir 1 |
+|   4 | Tests automatisés                    |          |
 
 ### Partie 2 : Gestion de versions
 
@@ -66,11 +66,11 @@ distribué avec Git en tant que contribueur·rice ou intégrateur·rice.
 
 Lors de la dernière partie du cours, l'étudiant·e travaille sur le
 projet Web 2. Des rencontres avec l'enseignant sont plannifiées afin de
-des mises au point.
+faire des mises au point.
 
 |     | Contenu                              | Remises        |
 | --: | ------------------------------------ | -------------- |
-|  10 | Présentation de l'épreuve finale     |                |
+|  10 | Énoncé de l'épreuve finale           |                |
 |  11 | Itération 1                          |                |
 |  12 | Itération 2                          |                |
 |  13 | Itération 2                          |                |
@@ -92,12 +92,22 @@ réalisé en équipe.
 Énoncé : cours 2, 5, 6, 7, 8 \
 Remise : cours suivant
 
-Cinq devoirs sur la matière vue en classe. Travaux réalisés seul·e.
+Cinq devoirs sur la matière vue en classe. Travaux réalisés seul·e et
+en équipe.
 
 ### Épreuve finale (60%)
 
 Organiser et mettre en œuvre la réalisation d'un projet Web en équipe.
 Épreuve en collaboration avec le cours *Projet Web 2* (582-41W).
+
+#### Critères d'évaluation
+
+-   Déterminer les critères de performance des divers items à implanter
+-   Démontrer précisément son apport à l'intérieur d'une équipe
+-   Capacité à définir les priorités, les tâches et les étapes de
+    production
+-   Application correcte de la méthode de gestion de projet
+-   Utilisation adéquate des outils de gestion du travail
 
 ## Plagiat et fraude
 
